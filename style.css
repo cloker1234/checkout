@@ -1,0 +1,14 @@
+body{
+    background-color: blue;
+
+}
+button{
+    background-color: blue;
+    color: grey;
+    float: middle;
+    flex-wrap: wrap;
+}
+button:hover{
+    background-color: blue;
+    color: chocolate;
+}
